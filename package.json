@@ -9,6 +9,7 @@
   "author": "Thiago Azevedo Pereira",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "consign": "^0.1.4",
     "express": "^4.15.2",
     "sequelize": "^3.30.4",
